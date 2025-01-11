@@ -1,0 +1,1 @@
+gunicorn --chdir lab3push microservice:app
